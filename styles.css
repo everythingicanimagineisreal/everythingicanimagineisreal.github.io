@@ -1,0 +1,44 @@
+h3 {
+    color: #ff0099;
+}
+
+h1 {
+    font-family: 'xahnmono';
+}
+
+header {
+   background-color: #333333;
+   padding: 5px;
+   margin-top: 0%;
+}
+
+section {
+ font-family: Courier;
+
+}
+
+body {
+    padding: 10%;
+    margin: 10px;
+    line-height: 20px;
+    text-align: center;
+    background-image: url("assets/topography.png");
+    background-repeat: repeat;
+    }
+
+
+li {display: inline;
+    color: #ff0099;
+    background-color: #333333;
+    padding: 20px;
+    margin: 0%;
+    text-align: right;
+}
+
+:link {
+    color: #ff0099;
+}
+
+.logo {
+    text-align: left;
+}
